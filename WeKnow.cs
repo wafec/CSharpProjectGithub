@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class WhoAmI
+    public class WeKnow
     {
         public string WhoYouThinkYouAre(string name)
         {
